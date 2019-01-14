@@ -1,4 +1,4 @@
-# ODR (Omni-directional Regeneration)
+# ODR (Omnidirectional Regeneration)
 Python version of ODR
 
 # References
